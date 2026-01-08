@@ -105,5 +105,6 @@ Quando o status de uma tarefa é alterado:
    ```bash
    git clone <url-do-repositorio>
 3. Execute o programa:
+   ```bash
     python main.py
 4. Utilize o menu apresentado no console para interagir com o sistema.
